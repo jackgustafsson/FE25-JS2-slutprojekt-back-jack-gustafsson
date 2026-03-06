@@ -1,0 +1,93 @@
+{
+  "assignments": [
+    {
+      "id": "4fd3f541-bc11-4d75-946d-5b93455f2dc6",
+      "title": "Exercise 1",
+      "description": "Something",
+      "category": "ux",
+      "status": "done",
+      "timestamp": "2026-03-06T17:09:43.670Z",
+      "assignedTo": "54dfab69-80d7-4d0a-97ce-e0a225bf578e"
+    },
+    {
+      "id": "71c03c3e-2f4d-409d-8c54-05cb7077c29b",
+      "title": "Exercise 2",
+      "description": "Do something",
+      "category": "dev frontend",
+      "status": "doing",
+      "timestamp": "2026-03-06T17:10:04.840Z",
+      "assignedTo": "c541d39e-825e-40b0-9629-71620c0c0c19"
+    },
+    {
+      "id": "b480287e-59df-4f0a-8d91-e9af2abc122f",
+      "title": "Exercise 3",
+      "description": "something cool",
+      "category": "dev backend",
+      "status": "new",
+      "timestamp": "2026-03-06T17:10:15.756Z"
+    },
+    {
+      "id": "fc1f956d-c0d9-4280-8c39-4dfff977497d",
+      "title": "Exercise 4",
+      "description": "Buy something",
+      "category": "ux",
+      "status": "new",
+      "timestamp": "2026-03-06T17:10:35.298Z"
+    },
+    {
+      "id": "1c4c70da-ce27-4d3a-b818-7529badfd9e0",
+      "title": "Exercise 5",
+      "description": "sleeeeep",
+      "category": "dev frontend",
+      "status": "done",
+      "timestamp": "2026-03-06T17:10:55.124Z",
+      "assignedTo": "c541d39e-825e-40b0-9629-71620c0c0c19"
+    },
+    {
+      "id": "db692966-b28d-4674-b511-411af8074771",
+      "title": "Exercise 6",
+      "description": "Just do it",
+      "category": "dev backend",
+      "status": "doing",
+      "timestamp": "2026-03-06T17:11:17.686Z",
+      "assignedTo": "d397ea90-7399-420d-9227-e88ff6218af5"
+    }
+  ],
+  "members": [
+    {
+      "id": "54dfab69-80d7-4d0a-97ce-e0a225bf578e",
+      "name": "John",
+      "category": "ux"
+    },
+    {
+      "id": "ef2ec1e8-8f20-4512-969b-fa23d21fce00",
+      "name": "Hyman",
+      "category": "dev frontend"
+    },
+    {
+      "id": "5e61bc98-81df-424d-be4f-052a57ec7fc1",
+      "name": "Karl",
+      "category": "dev backend"
+    },
+    {
+      "id": "d9698f31-485a-4164-9880-3f9aa9a679bc",
+      "name": "Ian",
+      "category": "ux"
+    },
+    {
+      "id": "c541d39e-825e-40b0-9629-71620c0c0c19",
+      "name": "Idoff",
+      "category": "dev frontend"
+    },
+    {
+      "id": "d397ea90-7399-420d-9227-e88ff6218af5",
+      "name": "Douglas",
+      "category": "dev backend"
+    },
+    {
+      "id": "b6575e25-8fea-409a-a3ab-d687fc468082",
+      "name": "Jack",
+      "category": "ux"
+    }
+  ]
+}
